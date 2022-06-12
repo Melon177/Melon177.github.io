@@ -1,10 +1,4 @@
-<p> Hello world! </p>
+<p> Welcome to erikadel.com! Get out while you still can!</p>
+<img>https://t4.ftcdn.net/jpg/01/15/20/75/360_F_115207580_US2etunH78I7iMYHOoNVvxQTCIdoPdRj.jpg</img>
 
-
-
-
-
-<p> Welcome to erikadel.com! </p>
-
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oQdU5nxaQKg?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<button type="button" onclick="alert('Hello world!')">Click Me!</button>
