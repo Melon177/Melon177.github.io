@@ -6,5 +6,5 @@
 <a href='videos'><button>Videos</button></a>
 <br>
 <body>
-<img src="https://preview.redd.it/vex8lr77cxd81.jpg?width=960&crop=smart&auto=webp&s=17fd6c533d05c548d478f782a68a0958d28fec6f" alt="wapple" width="1000" height="1000">
+<img src="https://preview.redd.it/vex8lr77cxd81.jpg?width=960&crop=smart&auto=webp&s=17fd6c533d05c548d478f782a68a0958d28fec6f" alt="wapple" width="1330" height="1100">
 </body>
