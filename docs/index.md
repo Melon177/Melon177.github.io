@@ -5,6 +5,8 @@
 </body>
 <a href='videos'><button>videos</button></a>
 <a href='documents'><button>documents</button></a>
+<a href='Terms of Service'><button>Terms of Service</button></a>
+<a href='Privacy Policy'><button>Privacy Policy</button></a>
 <br>
 <body>
 <img src="https://preview.redd.it/vex8lr77cxd81.jpg?width=960&crop=smart&auto=webp&s=17fd6c533d05c548d478f782a68a0958d28fec6f" alt="wapple" width="1330" height="1100">
