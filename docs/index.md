@@ -14,7 +14,7 @@
 <br>
 <br>
 <br>
-<br><a href="url">link text</a>
+<br>
 <body> Welcome to erikadel.com! Get out while you still can!</body>
 <br>
 <body>
