@@ -28,3 +28,7 @@
 <body>
 <img src="https://preview.redd.it/vex8lr77cxd81.jpg?width=960&crop=smart&auto=webp&s=17fd6c533d05c548d478f782a68a0958d28fec6f" alt="wapple" width="1330" height="1100">
 </body>
+<head>
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1013228705311212"
+     crossorigin="anonymous"></script>
+  </head>
