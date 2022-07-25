@@ -15,7 +15,21 @@
 <br>
 <br>
 <br>
-<body> Welcome to erikadel.com! Get out while you still can!</body>
+<body> Welcome to erikadel.com! Get out while you still can!
+<br>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1013228705311212"
+     crossorigin="anonymous"></script>
+<!-- Ad 1 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-1013228705311212"
+     data-ad-slot="2296504354"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</body>
 <br>
 <body>
 <img src="https://t4.ftcdn.net/jpg/01/15/20/75/360_F_115207580_US2etunH78I7iMYHOoNVvxQTCIdoPdRj.jpg" alt="Happy Times" width="200" height="80">
