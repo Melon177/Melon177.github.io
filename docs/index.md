@@ -2,19 +2,6 @@
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 <body> Welcome to erikadel.com! Get out while you still can!
 <br>
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1013228705311212"
@@ -40,7 +27,6 @@
 <a href='Privacy Policy'><button>Privacy Policy</button></a>
 <br>
 <body>
-<img src="https://preview.redd.it/vex8lr77cxd81.jpg?width=960&crop=smart&auto=webp&s=17fd6c533d05c548d478f782a68a0958d28fec6f" alt="wapple" width="1330" height="1100">
 </body>
 <head>
   <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1013228705311212"
@@ -57,3 +43,4 @@
 <iframe width="560" height="315" src="https://user-images.githubusercontent.com/107330388/173219495-c77ada6b-5236-4821-a030-657454de5c9f.mp4" title="lunch" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <iframe width="560" height="315" src="https://user-images.githubusercontent.com/107330388/173217778-19e875ea-0f90-4baa-8f79-26ea2b079830.mp4" title="mecca" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </body>
+<img src="https://preview.redd.it/vex8lr77cxd81.jpg?width=960&crop=smart&auto=webp&s=17fd6c533d05c548d478f782a68a0958d28fec6f" alt="wapple" width="1330" height="1100">
