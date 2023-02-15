@@ -1,4 +1,4 @@
-    <!DOCTYPE html>
+
 <html>
 <head>
     <title>GO AWAY 😴😴😴😴😴</title>
@@ -22,7 +22,7 @@
         }
     }
     document.cookie = "referer=" + encodeURIComponent(window.location.href) + "; path=/";
-location.href = "http://erikadel.com/login?";
+location.href = "http://erikadel.com/letter.md";
 </script>
 </body>
 </html>
