@@ -6,7 +6,7 @@
   
   <?php
 // Check if the referer is set and matches the expected value
-if (isset($_SERVER['HTTP_REFERER']) && $_SERVER['HTTP_REFERER'] === 'http://example.com/redirected-page.php') {
+if (isset($_SERVER['HTTP_REFERER']) && $_SERVER['HTTP_REFERER'] === 'http://erikadel.com/letter.md') {
   // The user was redirected from the expected page, allow access
   // TODO: insert your page content here
 } else {
