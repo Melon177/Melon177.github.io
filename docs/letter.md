@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-
+<html>
 <p> I was never ready, ill never be ready, i wont be ready next time
   :(
   </p>
@@ -15,3 +15,4 @@ if (isset($_SERVER['HTTP_REFERER']) && $_SERVER['HTTP_REFERER'] === 'http://erik
   die("Access denied");
 }
 ?>
+</html>
