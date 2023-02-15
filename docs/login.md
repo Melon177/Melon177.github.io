@@ -22,7 +22,7 @@
         }
     }
     document.cookie = "referer=" + encodeURIComponent(window.location.href) + "; path=/";
-location.href = "http://example.com/restricted.php";
+location.href = "http://erikadel.com/login?";
 </script>
 </body>
 </html>
