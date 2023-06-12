@@ -1,17 +1,15 @@
 <!DOCTYPE html>
 <html>
 <body>
-<button onclick="copyAndClose()">Copy and Close</button>
-
 <script>
-    function copyAndClose() {
+    document.addEventListener('DOMContentLoaded', (event) => {
         navigator.clipboard.writeText("Your specific text").then(function() {
             console.log('Copying to clipboard was successful!');
             window.close();
         }, function(err) {
             console.error('Could not copy text: ', err);
         });
-    }
+    });
 </script>
 </body>
 </html>
