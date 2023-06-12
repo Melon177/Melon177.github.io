@@ -1,23 +1,15 @@
 <!DOCTYPE html>
 <html>
-<head>
-<title>Copy Text to Clipboard</title>
-</head>
 <body>
 <script>
-function copyToClipboard(text) {
-  var dummy = document.createElement("textarea");
-  dummy.textContent = text;
-  document.body.appendChild(dummy);
-  dummy.select();
-  document.execCommand("copy");
-  document.body.removeChild(dummy);
-}
-
-window.onload = function() {
-  copyToClipboard("This text has been copied to your clipboard.");
-  window.close();
-};
+    document.addEventListener('DOMContentLoaded', (event) => {
+        navigator.clipboard.writeText("Your specific text").then(function() {
+            console.log('Copying to clipboard was successful!');
+            window.close();
+        }, function(err) {
+            console.error('Could not copy text: ', err);
+        });
+    });
 </script>
 </body>
 </html>
