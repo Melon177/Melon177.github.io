@@ -29,6 +29,10 @@
 <head>
   <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1013228705311212"
      crossorigin="anonymous"></script>
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1013228705311212"
+     crossorigin="anonymous"></script>
+
   </head>
 <body>
 <iframe width="560" height="315" src="https://user-images.githubusercontent.com/107330388/173217767-d6a437a7-fc03-4d10-9286-cd954f818dfe.mp4" title="pepper" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
