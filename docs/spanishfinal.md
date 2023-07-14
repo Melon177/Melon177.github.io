@@ -2,6 +2,10 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1013228705311212"
+     crossorigin="anonymous"></script>
+
     <meta charset="utf-8">
     <title>Proyecto Final por SPAN-101-62414</title>
     <meta content="yes" name="apple-touch-fullscreen" />
