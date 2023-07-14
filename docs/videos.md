@@ -1,4 +1,8 @@
 <body>
+  <head>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1013228705311212"
+     crossorigin="anonymous"></script>
+</head>
 <iframe width="560" height="315" src="https://user-images.githubusercontent.com/107330388/173217767-d6a437a7-fc03-4d10-9286-cd954f818dfe.mp4" title="pepper" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <iframe width="560" height="315" src="https://user-images.githubusercontent.com/107330388/173217770-c9f12c40-ddaa-4124-a133-8e1173707df8.mp4" title="faz" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <iframe width="560" height="315" src="https://user-images.githubusercontent.com/107330388/173218320-3e671688-04ae-459d-8ffa-49e13e098a6e.mp4" title="jucier" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
