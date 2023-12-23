@@ -48,6 +48,7 @@
             font-size: 14px;
             margin-top: 5px;
             color: #333;
+            display: block; /* Make it initially visible */
         }
     </style>
     <title>Your Website</title>
@@ -76,10 +77,15 @@
     const chatBox = document.getElementById('chatBox');
     const chatMessages = document.getElementById('chatMessages');
     const userInput = document.getElementById('userInput');
+    const helpText = document.getElementById('helpText');
+
+    // Show help text initially
+    helpText.style.display = 'block';
 
     chatBtn.addEventListener('click', toggleChatBox);
 
     function toggleChatBox() {
+        helpText.style.display = 'none'; // Hide help text when chat box is opened
         chatBox.style.display = chatBox.style.display === 'none' ? 'block' : 'none';
     }
 
