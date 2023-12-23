@@ -53,7 +53,7 @@
 <!-- Chat button and box -->
 <div class="chat-container">
     <button id="chatBtn">
-        <img src="https://preview.redd.it/vex8lr77cxd81.jpg?width=960&crop=smart&auto=webp&s=17fd6c533d05c548d478f782a68a0958d28fec6f" alt="Your Face">
+        <img src="https://i.gyazo.com/96b0767f412e3323cad9517bae88c537.png" alt="Your Face">
     </button>
     <div id="chatBox" class="chat-box">
         <div id="chatMessages" class="chat-messages"></div>
