@@ -95,7 +95,7 @@
         if (userMessage !== '') {
             appendMessage('user', `You: ${userMessage}`);
             // Determine the agent's response randomly
-            const agentResponse = Math.random() < 0.25
+            const agentResponse = Math.random() < 0.50
                 ? 'go away :('
                 : 'i\'m such a snoozepilled sleepcel 😪';
             setTimeout(() => appendMessage('agent', `wapple: ${agentResponse}`), 1000);
