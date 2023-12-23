@@ -8,7 +8,7 @@
 
         .chat-container {
             position: fixed;
-            left: 20px;
+            right: 20px; /* Adjust the right distance as needed */
             bottom: 20px;
             z-index: 999;
         }
@@ -26,7 +26,7 @@
             display: none;
             position: fixed;
             bottom: 80px;
-            left: 30px;
+            right: 30px;
             width: 250px;
             background-color: #f1f1f1;
             padding: 10px;
@@ -43,6 +43,12 @@
             width: 80%;
             padding: 5px;
         }
+
+        #helpText {
+            font-size: 14px;
+            margin-top: 5px;
+            color: #333;
+        }
     </style>
     <title>Your Website</title>
 </head>
@@ -53,12 +59,13 @@
 <!-- Chat button and box -->
 <div class="chat-container">
     <button id="chatBtn">
-        <img src="https://i.gyazo.com/96b0767f412e3323cad9517bae88c537.png" alt="Your Face">
+        <img src="https://i.gyazo.com/96b0767f412e3323cad9517bae88c537.png" alt="Your Face" style="width: 50px; height: 50px;">
     </button>
     <div id="chatBox" class="chat-box">
         <div id="chatMessages" class="chat-messages"></div>
         <input type="text" id="userInput" placeholder="Type your message...">
         <button onclick="sendMessage()">Send</button>
+        <div id="helpText">Click on me if you need help!</div>
     </div>
 </div>
 
