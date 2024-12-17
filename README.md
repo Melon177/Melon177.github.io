@@ -1,1 +1,1 @@
-Welcome, don't read me :(
+Home to erikadel.com
