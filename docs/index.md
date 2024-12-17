@@ -4,7 +4,7 @@
   <meta charset="UTF-8" />
   <title>Welcome to erikadel.com!</title>
 </head>
-<body style="font-family: monospace; white-space: pre; margin: 20px;">
+<body style="font-family: monospace; white-space: pre; margin: 0px;">
 
 Welcome to erikadel.com!
 
